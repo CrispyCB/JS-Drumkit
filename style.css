@@ -1,8 +1,19 @@
 body {
     background-image: url("concert-cords.jpg");
 }
-
-span {
-    padding-left: 30px;
+#hihat-cymbals {
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 50%;
+    text-align: center;
+}
+#hhc {
+    display: inline-block;
+    padding-top: 62px;
+    text-align: center;
     margin: 0 auto;
+    padding-left: 34px;
+}
 }
