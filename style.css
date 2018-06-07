@@ -37,5 +37,10 @@ span {
 }
 #snare-drum {
     margin-left: 41%;
-    margin-top: -20%;
+    margin-top: -22%;
+    margin-bottom: -15%;
+}
+#sm-tom {
+    margin-left: 41%;
+    margin-top: -13%;
 }
