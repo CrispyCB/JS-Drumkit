@@ -23,4 +23,18 @@ kbd {
     text-align: center;
     margin: 0 auto;
 }
-
+#crash-cymbals1 {
+    background-color: #eddfb3;
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 30%;
+}
+#cc1 {
+    display: block;
+    padding-top: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
