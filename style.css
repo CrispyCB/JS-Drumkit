@@ -14,11 +14,13 @@ kbd {
     border-radius: 50%;
     text-align: center;
     margin-left: 30%;
-    margin-top: 20%;
+    margin-top: 15%;
 }
+/*sets span element below kbd*/
 #hhc {
     display: block;
     padding-top: 20px;
     text-align: center;
     margin: 0 auto;
 }
+
