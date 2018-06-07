@@ -17,7 +17,7 @@ kbd {
     margin-top: 15%;
 }
 /*sets span element below kbd*/
-#hhc {
+span {
     display: block;
     padding-top: 20px;
     text-align: center;
@@ -31,10 +31,4 @@ kbd {
     border-radius: 50%;
     text-align: center;
     margin-left: 30%;
-}
-#cc1 {
-    display: block;
-    padding-top: 20px;
-    text-align: center;
-    margin: 0 auto;
 }
