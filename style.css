@@ -1,19 +1,23 @@
 body {
     background-image: url("concert-cords.jpg");
+    font-family: 'Rock Salt', cursive;
+}
+kbd {
+    font-family: 'Rock Salt', cursive;
 }
 #hihat-cymbals {
     background-color: white;
     height: 150px;
     width: 150px;
-    border: 1px solid black;
+    border: 3px solid black;
     border-radius: 50%;
     text-align: center;
+    margin-left: 30%;
+    margin-top: 20%;
 }
 #hhc {
-    display: inline-block;
-    padding-top: 62px;
+    display: block;
+    padding-top: 20px;
     text-align: center;
     margin: 0 auto;
-    padding-left: 34px;
-}
 }
