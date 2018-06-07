@@ -5,6 +5,7 @@ body {
 kbd {
     font-family: 'Rock Salt', cursive;
 }
+/* The margin-left and margin-top values set this element in its place on the page. */
 #hihat-cymbals {
     background-color: #eddfb3;
     height: 150px;
